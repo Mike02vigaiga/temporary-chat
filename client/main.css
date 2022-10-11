@@ -1,0 +1,10 @@
+#send{
+    display: block;
+  cursor: pointer;
+  text-align: center;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+}
